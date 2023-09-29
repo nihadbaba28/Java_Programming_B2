@@ -33,3 +33,4 @@ public class EmptyOrBlank {
         System.out.println( str.isBlank());
     }
 }
+
