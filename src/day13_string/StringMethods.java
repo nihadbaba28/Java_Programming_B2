@@ -2,7 +2,7 @@ package day13_string;
 // import java.util.Scanner;
 public class StringMethods {
     public static void main(String[] args) {
-       Scanner input = new Scanner(System.in);
+       //Scanner input = new Scanner(System.in);
 
         String str = "loop camp"; // IMMUTABLE
         str = str + " is nice";  // we made a completely new String
