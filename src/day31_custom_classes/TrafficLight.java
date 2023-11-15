@@ -1,5 +1,7 @@
 package day31_custom_classes;
 
+import java.util.Arrays;
+
 public class TrafficLight {
 
     String light;
@@ -14,5 +16,6 @@ public class TrafficLight {
     public TrafficLight (String color) {
         light = color;
     }
+
 
 }

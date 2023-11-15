@@ -15,6 +15,8 @@ public class ArrayIntro {
         // With data Structure --- > Array
         String [] cities = {"Fairfax", "Baku", "Houston", "Seattle"};
         String [] cities2 = {cityOne, cityTwo, cityThree, cityFour };
+
+
         // Indexes:             0         1        2          3
 
 
