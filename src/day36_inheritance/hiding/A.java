@@ -3,9 +3,11 @@ package day36_inheritance.hiding;
 public class A {
 
   public void instanceMethod(){
-     staticMethod();
+
+      staticMethod();
   }
     public static void staticMethod (){
-        System.out.println("Static from parent");
+
+      System.out.println("Static from parent");
     }
 }
