@@ -5,8 +5,12 @@ public class CallMethods {
         A obj = new A();
         obj.instanceMethod();
 
+        System.out.println();
+
         B obj2 = new B();
         obj2.instanceMethod();
+
+
 
     }
 }
