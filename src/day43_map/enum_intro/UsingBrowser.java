@@ -14,7 +14,7 @@ public class UsingBrowser {
                 break;
             case CHROME:
             case SAFARI:
-                System.out.println("Openig CHROME or SAFARI");
+                System.out.println("Opening CHROME or SAFARI");
         }
 
 
